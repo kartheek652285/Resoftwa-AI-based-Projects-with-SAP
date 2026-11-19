@@ -1,2 +1,2 @@
-# Resoftwa-AI-based-Projects
-I am gonna work on sap based and normal ai based projects and update them here
+# Resoftwa-AI-based-Project-with-SAP
+I am gonna work on sap based ai projects and update them here
